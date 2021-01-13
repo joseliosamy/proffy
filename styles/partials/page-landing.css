@@ -1,0 +1,25 @@
+:root{
+    font-size: 40%;
+}
+#page-landing{
+    background-color: var(--color-primary);
+}
+#page-landing #container{
+    color: var(--color-text-in-primary);
+}
+.logo-container{
+    text-align: center;
+    margin-bottom: 3.2rem;
+}
+.logo-container h2{
+    font-weight: 500;
+    font-size: 3.6rem;
+    line-height: 4.6rem;
+    margin-top: .8rem;
+}
+.logo-container img{
+    width: 10rem;
+}
+.hero-image{
+    width: 100%;
+}
